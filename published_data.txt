@@ -22,4 +22,4 @@ a:26:{s:7:"site_id";s:18:"866790264111622406";s:10:"link_pages";a:3:{s:10:"about
 h2.wsite-product-title {}
 .wsite-product .wsite-product-price a {}
 </style>
-";s:16:"template_layouts";N;s:23:"mobile_template_layouts";N;s:12:"mobile_theme";s:6:"legacy";s:23:"mobile_headers_disabled";b:0;s:25:"mobile_header_placeholder";s:1:"0";s:7:"user_id";i:25488337;s:12:"publish_date";i:1387701639;s:14:"contains_store";b:0;s:11:"ssl_enabled";s:0:"";s:17:"ssl_checkout_only";b:0;}
+";s:16:"template_layouts";N;s:23:"mobile_template_layouts";N;s:12:"mobile_theme";s:6:"legacy";s:23:"mobile_headers_disabled";b:0;s:25:"mobile_header_placeholder";s:1:"0";s:7:"user_id";i:25488337;s:12:"publish_date";i:1387735774;s:14:"contains_store";b:0;s:11:"ssl_enabled";s:0:"";s:17:"ssl_checkout_only";b:0;}
